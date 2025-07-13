@@ -73,8 +73,8 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:esrawad96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/esraa-a-73a693256/"><img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/esraa96"><img src="https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
