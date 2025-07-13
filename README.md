@@ -10,7 +10,7 @@
   <li><strong style="color:#F59E0B;">📍 Location:</strong> Egypt 🇪🇬</li>
   <li><strong style="color:#F59E0B;">🔭 Currently:</strong> Learning Flutter & TypeScript</li>
   <li><strong style="color:#F59E0B;">🎯 Goals:</strong> Build useful apps, contribute to open source</li>
-  <li><strong style="color:#F59E0B;">🧠 Stack:</strong> React | Flutter | .NET</li>
+  <li><strong style="color:#F59E0B;">🧠 Stack:</strong> React | Flutter |Next|REact Neative</li>
 </ul>
 ---
 
