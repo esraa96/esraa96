@@ -5,23 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Esraa+Awad;Frontend+%26+Cross-platform+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-<!-- Avatar and bio -->
-<table border="0" cellspacing="0" cellpadding="0" style="margin-top: -20px;">
-  <tr>
-  
-    <td>
-      <h2 align="left" style="color:#DC2626;">👩‍💻 About Me</h2>
-      <ul>
-        <li><strong style="color:#F59E0B;">💼 Role:</strong> Frontend & Cross-platform Developer</li>
-        <li><strong style="color:#F59E0B;">📍 Location:</strong> Egypt 🇪🇬</li>
-        <li><strong style="color:#F59E0B;">🔭 Currently:</strong> Learning Flutter & TypeScript</li>
-        <li><strong style="color:#F59E0B;">🎯 Goals:</strong> Build useful apps, contribute to open source</li>
-        <li><strong style="color:#F59E0B;">🧠 Stack:</strong> React | Flutter | .NET</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<ul>
+  <li><strong style="color:#F59E0B;">💼 Role:</strong> Frontend & Cross-platform Developer</li>
+  <li><strong style="color:#F59E0B;">📍 Location:</strong> Egypt 🇪🇬</li>
+  <li><strong style="color:#F59E0B;">🔭 Currently:</strong> Learning Flutter & TypeScript</li>
+  <li><strong style="color:#F59E0B;">🎯 Goals:</strong> Build useful apps, contribute to open source</li>
+  <li><strong style="color:#F59E0B;">🧠 Stack:</strong> React | Flutter | .NET</li>
+</ul>
 ---
 
 ## 🔧 Tech Stack
