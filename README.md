@@ -8,9 +8,7 @@
 <!-- Avatar and bio -->
 <table border="0" cellspacing="0" cellpadding="0" style="margin-top: -20px;">
   <tr>
-    <td width="170">
-      <img src="https://avatars.githubusercontent.com/u/yourID" width="150" style="border-radius: 50%" alt="Your avatar" />
-    </td>
+  
     <td>
       <h2 align="left" style="color:#DC2626;">👩‍💻 About Me</h2>
       <ul>
